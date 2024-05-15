@@ -20,7 +20,7 @@ source-code: https://github.com/thecdil/oral-history-as-data
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Shades of Belonging: Finding Graces in White Spaces
+title: Shades of Belonging Finding Graces in White Spaces 
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: An oral history exploring students of color and their experience belonging in private schools
 # description appears in meta tags and other locations
@@ -40,9 +40,9 @@ metadata: demo-metadata
 # Site/Organization Branding 
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
-organization-name: "Colorado Academy - Voices of the Rockies Class"
+organization-name: "Colorado Academy Social Studies ASR III"
 organization-link: https://www.coloradoacademy.org/
-organization-logo-banner: https://bbk12e1-cdn.myschoolcdn.com/ftpimages/438/logo/ColoradoAcademyLogoWhite.png
+organization-logo-banner: https://bbk12e1-cdn.myschoolcdn.com/ftpimages/438/logo/caLogo.png
 organization-logo-nav: https://bbk12e1-cdn.myschoolcdn.com/ftpimages/438/logo/ColoradoAcademyLogo.png
 
 
